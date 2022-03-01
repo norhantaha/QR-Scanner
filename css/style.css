@@ -1,0 +1,44 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-size: 15px;
+    font-family: 'Cairo', sans-serif;
+
+}
+
+.card{
+    background-color: white;
+    width: 280px;
+    height: 450px;
+    padding: 10px;
+    padding-top: 15px;
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 25px;
+}
+
+img{
+    width: 270px;
+    height: 270px;
+    overflow: hidden;
+    border-radius: 25px;
+
+}
+.text1{
+    width: 250px;
+    margin: auto;
+    margin-top: 15px;
+    font-weight: 700;
+}
+.text2{
+    color: hsl(220, 15%, 55%);
+    width: 250px;
+    margin: auto;
+    margin-top: 10px;
+}
+.attribution { font-size: 11px; text-align: center; 
+}
+
+.attribution a { color: hsl(228, 45%, 44%);
+}
+
